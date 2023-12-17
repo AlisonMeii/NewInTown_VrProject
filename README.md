@@ -17,7 +17,7 @@
 &emsp;&emsp;③ **UI creativity**, purely original UI design, set up original logos, labels, slogans, patterns, etc., unified style and colour, systematic integrity is good, and strive to create a more close to the scene style and suitable for the VR scene of the UI design;  
 &emsp;&emsp;④ **Technical creativity**, the use of PICO equipment development, clever use of handle buttons, so that the user has a more immersive feeling; another random and challenges, high playability, interesting, interactive experience.  
 The overall framework flow of the application is as follows:
-<div align=center><img src="https://github.com/AlisonMeii/NewInTown_VrProject/blob/main/Image/mindmap.png?raw=true"/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/NewInTown_VrProject/blob/main/Image/mindmap%20upgrade.png?raw=true"/></div>  
 
 # 2. Technical Realisation
 ## 2.1 Scene Building
